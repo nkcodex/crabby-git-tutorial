@@ -1,0 +1,6 @@
+[package]
+name = "crabby-git-tutorials"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
